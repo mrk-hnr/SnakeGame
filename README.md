@@ -1,7 +1,7 @@
 # Snake Game
 A beginner grid-based game based from the classic Nokia phones using JavaScript.
 
-Check it ![here](https://classicnokiasnake.netlify.app)!
+**Check it [here](https://classicnokiasnake.netlify.app/)!**
 
 ## How It's Made:
 
