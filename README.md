@@ -1,10 +1,7 @@
 # Snake Game
 A beginner grid-based game based from the classic Nokia phones using JavaScript.
 
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-Check it ![here](https://classicnokiasnake.netlify.app)
+Check it ![here](https://classicnokiasnake.netlify.app)!
 
 ## How It's Made:
 
